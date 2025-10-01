@@ -7,3 +7,4 @@ Switch 5~9번 코드 수행 완료
 문제: avr4.19프로그램에서 run을 눌렀을 때 동작이 잘 안됨 
 
 해결 과정: stop을 누르고 보드의 reset 버튼을 누르면 정상 작동 
+![Uploading 5e37fcd9-2b43-4a82-927f-38c4dc21fc16.png…]()
